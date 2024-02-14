@@ -1,2 +1,3 @@
 # navios-api
-api do jogo da batalha naval
+
+Desenvolvi uma API para o jogo de batalha naval como parte de um projeto acadêmico na minha faculdade. Assumi a responsabilidade por esta parte do projeto com o objetivo de aprofundar meu conhecimento sobre a integração entre banco de dados, backend e consumo de API. No contexto do jogo, o backend consumia a API por meio de JSON, fazendo requisições via URL. Após a execução de toda a lógica do jogo, os dados eram processados e armazenados no banco de dados por meio de outras APIs.
