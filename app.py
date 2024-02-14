@@ -5,11 +5,11 @@ app = Flask(__name__)
 app.config['JSON_SORT_KEYS'] = False
 
 
-host = "roundhouse.proxy.rlwy.net"
-port = 46219
+host = "host"
+port = "port"
 user = "root"
-password = "ABbHa2fg52gh3gHD13bFcfAFHa3AE45F"
-database = "railway"
+password = "password"
+database = "database"
 
 
 # Agora você pode usar a variável 'conn' para executar consultas SQL
